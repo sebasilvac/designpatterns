@@ -8,3 +8,4 @@ Lista de ejemplos:
 	* Observer
 	* Proxy
 	* Strategy
+	* DAO
