@@ -1,8 +1,8 @@
 <?php
 
-require_once "ConectionInterface.php";
+require_once "ConnectionInterface.php";
 
-class ConectionOracle implements ConectionInterface {
+class ConnectionOracle implements ConnectionInterface {
 
     public function conectar()
     {

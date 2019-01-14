@@ -1,5 +1,5 @@
 # Patrones de diseños
-## Ejemplo de patrones de diseños
+## Pequeños ejemplo de patrones de diseños
 
 Lista de ejemplos:
 
@@ -10,3 +10,4 @@ Lista de ejemplos:
 	* Strategy
 	* DAO
 	* Factory
+	* Dependency Injection

@@ -2,7 +2,7 @@
 
 require_once "ConectionFactory.php";
 
-$factory = new ConectionFactory();
+$factory = new ConnectionFactory();
 
 $con1 = $factory->getConection("MySql");
 $con1->conectar();

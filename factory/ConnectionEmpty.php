@@ -2,7 +2,7 @@
 
 require_once "ConectionInterface.php";
 
-class ConectionEmpty implements ConectionInterface {
+class ConnectionEmpty implements ConnectionInterface {
 
     public function conectar()
     {

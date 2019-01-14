@@ -2,7 +2,7 @@
 
 require_once "ConectionInterface.php";
 
-class ConectionMySql implements ConectionInterface {
+class ConnectionMySql implements ConnectionInterface {
 
     public function conectar()
     {

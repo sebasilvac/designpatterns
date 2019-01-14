@@ -1,8 +1,8 @@
 <?php
 
-require_once "ConectionInterface.php";
+require_once "ConnectionInterface.php";
 
-class ConectionPostgreSQL implements ConectionInterface {
+class ConnectionPostgreSQL implements ConnectionInterface {
 
     public function conectar()
     {

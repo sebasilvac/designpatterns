@@ -5,7 +5,7 @@ require_once "ConnectionOracle.php";
 require_once "ConnectionPostgreSQL.php";
 require_once "ConnectionEmpty.php";
 
-class ConectionFactory {
+class ConnectionFactory {
 
     public function getConection($motor)
     {
