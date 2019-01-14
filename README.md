@@ -9,3 +9,4 @@ Lista de ejemplos:
 	* Proxy
 	* Strategy
 	* DAO
+	* Factory
